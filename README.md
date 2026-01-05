@@ -2,8 +2,10 @@
 Academic Project at University
 Description:
 This project presents the design and implementation of a computer network for "DEA" High School, supporting over 300 devices across three floors. The network ensures security, scalability, and efficient management for both administrative and educational activities.
+
 Technologies Used:
 Cisco Packet Tracer
+
 Key Features:
 Segmented network with VLANs for offices, labs, and classrooms
 DHCP server and static IPs for critical devices
